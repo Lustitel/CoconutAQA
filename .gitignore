@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycahe__/
+do_not_push_me.py
+.idea
